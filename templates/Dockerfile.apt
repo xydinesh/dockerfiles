@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Dinesh Weerapurage "dweerapurage@kpmg.com"
+MAINTAINER Dinesh Weerapurage "xydinesh@gmail.com"
 # set an environment variable with ENV
 ENV REFRESHED_AT 2014-07-22
 RUN apt-get -qq update
